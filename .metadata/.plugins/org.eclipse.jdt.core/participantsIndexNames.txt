@@ -1,0 +1,13 @@
+INDEX VERSION 1.127
+C:\Users\User\workspace_luna_onlineshop_bawara\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3215815850.index
+\bawara\src\main\java
+C:\Users\Kuziv\Desktop\workspace_luna_onlineshop_bawara\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3215815850.index
+\bawara\src\main\java
+C:\Users\User\workspace_luna_onlineshop_bawara\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3948606823.index
+\bawara\src\main\java
+C:\Users\User\workspace_luna_onlineshop_bawara\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\567268014.index
+\bawara\src\main\java
+C:\Users\Kuziv\Desktop\workspace_luna_onlineshop_bawara\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\567268014.index
+\bawara\src\main\java
+C:\Users\User\workspace_luna_onlineshop_bawara\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\420368981.index
+\bawara\src\main\java

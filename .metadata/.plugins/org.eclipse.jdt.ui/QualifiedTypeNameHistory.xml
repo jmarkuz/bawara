@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.kuziv.onlineshop.bawara.models.Model"/>
+<fullyQualifiedTypeName name="com.kuziv.onlineshop.bawara.models.Order"/>
+<fullyQualifiedTypeName name="javax.sql.DataSource"/>
+<fullyQualifiedTypeName name="java.io.BufferedReader"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="java.io.FileReader"/>
+<fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+<fullyQualifiedTypeName name="org.springframework.security.core.userdetails.UserDetailsService"/>
+<fullyQualifiedTypeName name="org.springframework.security.core.userdetails.UsernameNotFoundException"/>
+<fullyQualifiedTypeName name="org.hibernate.Criteria"/>
+<fullyQualifiedTypeName name="org.hibernate.criterion.Restrictions"/>
+<fullyQualifiedTypeName name="org.springframework.security.crypto.password.PasswordEncoder"/>
+<fullyQualifiedTypeName name="java.security.MessageDigest"/>
+<fullyQualifiedTypeName name="java.lang.StringBuffer"/>
+<fullyQualifiedTypeName name="javax.persistence.criteria.CriteriaBuilder"/>
+<fullyQualifiedTypeName name="org.hibernate.internal.CriteriaImpl"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="org.springframework.security.core.authority.SimpleGrantedAuthority"/>
+<fullyQualifiedTypeName name="com.kuziv.onlineshop.bawara.controllers.ProductController"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+<fullyQualifiedTypeName name="com.kuziv.onlineshop.bawara.dao.ProductDao"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Qualifier"/>
+<fullyQualifiedTypeName name="com.kuziv.onlineshop.bawara.services.ProductService"/>
+<fullyQualifiedTypeName name="antlr.collections.List"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.kuziv.onlineshop.bawara.models.Product"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMethod"/>
+<fullyQualifiedTypeName name="org.springframework.web.servlet.ModelAndView"/>
+<fullyQualifiedTypeName name="org.springframework.transaction.annotation.Transactional"/>
+</qualifiedTypeNameHistroy>
